@@ -1,0 +1,16 @@
+{
+  "name": "vx-bot",
+  "version": "1.0.0",
+  "description": "VX E-Sports Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^2.6.0",
+    "@discordjs/voice": "^0.19.0",
+    "discord-api-types": "^0.38.24",
+    "discord.js": "^14.16.3",
+    "express": "^4.19.2"
+  }
+}
